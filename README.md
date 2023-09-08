@@ -1,0 +1,2 @@
+# beggining-bash
+beggining bash
