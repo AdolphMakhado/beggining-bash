@@ -4,4 +4,4 @@ What does the command cd home do?
 
 Answer
 
-It looks for subdirectory in the the current directory.
+It takes us to the home directory from the current directory.
